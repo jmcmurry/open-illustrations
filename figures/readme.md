@@ -1,3 +1,1 @@
-Figures that may end up in grants and papers get published here first (at a minimum) so that future use is not restricted.
 
-Figures in this repository are licensed as CC-BY 4.0 (see [LICENSE.md](LICENSE.md); however, I've made many more generic illustrations, icons, etc  available under public domain at [https://pixabay.com/en/users/mcmurryjulie-2375405/](http://bit.ly/pixabay-mcmurryjulie). No permission is needed for those in pixabay; however, we do ask permission to use for figures here. To request permission, please contact us via our public gitter room https://gitter.im/monarch-initiative/helpdesk or direct message me @figgyjam. 
