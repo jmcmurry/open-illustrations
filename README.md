@@ -1,7 +1,9 @@
 # Illustrations, primarily for the [Monarch Initiative](http://monarch-initiative.org)
 
-Figures that may end up in grants and papers get published here first (at a minimum) so that we are not restricted from using them in the future.
+Figures that may eventually end up in grants and papers get published here first (at a minimum) so that we ourselves are not restricted from using them or adaptations of them in the future. CC Licenses are non-revokable.
 
-Figures in this repository are licensed as CC-BY 4.0 (see [LICENSE.md](LICENSE.md); however, I've made many more generic illustrations, icons, etc  available under public domain at [https://pixabay.com/en/users/mcmurryjulie-2375405/](http://bit.ly/pixabay-mcmurryjulie). No permission is needed for those in pixabay; however, we do ask permission to use for figures here as they're more specific to the domain of translational research and a lot of effort has gone into them. To request permission, please contact us via our public gitter room https://gitter.im/monarch-initiative/helpdesk, direct message me @figgyjam, or just [log a ticket](https://github.com/jmcmurry/illustrations/).
+Figures in this repository are licensed as **CC-BY 4.0** (see [LICENSE.md](LICENSE.md); no permission is needed to use or adapt them. However, attribution is required "Illustration credits Julie McMurry (@figgyjam)". To signal your use or adaptation of these images (note no permission is required), please contact us via our public gitter room https://gitter.im/monarch-initiative/helpdesk, direct message me @figgyjam,  [log a ticket](https://github.com/jmcmurry/illustrations/) or make a pull request on the (list of uses)[https://github.com/jmcmurry/open-illustrations/blob/master/figures/reuses.md]. In other words, whatever method you prefer.
 
 Pull requests for any edits or altered copies are of course welcomed.
+
+See also generic illustrations, icons, available under public domain (CC0) at [https://pixabay.com/en/users/mcmurryjulie-2375405/](http://bit.ly/pixabay-mcmurryjulie). No permission is needed for those in pixabay. However, attribution and notifictaion always welcome.
