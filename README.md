@@ -1,7 +1,5 @@
 # Illustrations, primarily for the [Monarch Initiative](http://monarch-initiative.org)
 
-Logos are all rights reserved, but may freely be used by partners of the Monarch Initiative.
-
 Figures that may eventually end up in other places get published here first (at a minimum) primarily so that we ourselves are not restricted from using them or adaptations of them in the future. CC Licenses are non-revokable.
 
 Figures in this repository are licensed as **CC-BY 4.0** (see [LICENSE.md](https://github.com/jmcmurry/open-illustrations/blob/master/LICENSE.MD); no permission is needed to use or adapt them. However, attribution is required as per best practice for [how to attribute CC licensed work](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#This_is_an_ideal_attribution). For example:
